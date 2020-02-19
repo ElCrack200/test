@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>FFFF80</corfondo>
+        <corbanda>80FF80</corbanda>
+        <cornavega>FF8040</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Actividades Variadas Para Niños</titulo>
+        <logo>Logo.jpg</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="Efecto_de_sonido_respuesta_correcta.mp3" modo="1" >Bien hecho!!</correcto>
+        <incorrecto son="Efecto_de_sonido_-_Error.mp3" modo="1" >Sigue Intentando</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <imaxe posx="383" posy="252">Imag1.jpg</imaxe>
+              <texto posx="44" posy="11" ancho="200" largo="200"><![CDATA[<br><p align="center"><br><font color="#080000" face="Arial" size="32">Este es un libro Interactivo <br><br></font><font color="#080000" face="Arial" size="28">Si su hijo o hija se le deficulta leer (Sólo en está página es necesario leer) por favor ayúdelo a seleccioner el juego que desea.<br><br><br><br><br><br></font></p><br>]]></texto>
+              <ctexto>000000</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>3</tipo>
+              <imaxe>A2.jpg</imaxe>
+              <son>M1.mp3</son>
+              <filas>3</filas>
+              <columnas>3</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>
